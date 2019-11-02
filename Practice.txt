@@ -1,4 +1,4 @@
-
+NEW LINE
 
 
 
@@ -21,4 +21,4 @@ Something more legit
 The quick brown fox jumped over the lazy dog
 THIS IS MY NEW BRANCH
 What is life when things get tough?
-whatevvvvvaaa~~~
+whatevvvvvaaa~~~ 
